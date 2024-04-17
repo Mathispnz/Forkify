@@ -1,0 +1,26 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathispnz/Forkify.git"
+  },
+  "author": "Mathis P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathispnz/Forkify/issues"
+  },
+  "homepage": "https://github.com/Mathispnz/Forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.0.0"
+  },
+  "dependencies": {
+    "regenerator-runtime": "^0.14.1"
+  }
+}
